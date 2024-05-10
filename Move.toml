@@ -1,7 +1,7 @@
 [package]
 name = "AliceContract"
 edition = "2024.beta" # edition = "legacy" to use legacy (pre-2024) Move
-published_at = "0xe8499fbcbdea64e7bb0043aab9c33c4387c1101d31daca265a4aada0ebac29c1"
+published-at = "0xe8499fbcbdea64e7bb0043aab9c33c4387c1101d31daca265a4aada0ebac29c1"
 # license = ""           # e.g., "MIT", "GPL", "Apache 2.0"
 # authors = ["..."]      # e.g., ["Joe Smith (joesmith@noemail.com)", "John Snow (johnsnow@noemail.com)"]
 
